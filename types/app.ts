@@ -7,5 +7,5 @@ export interface ICategory {
 export interface IArtist {
     name : string;
     description : string;
-    categories : ICategory;
+    categories : string;
 }
